@@ -53,7 +53,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jumayevou&theme=algolia&column=5" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JumayevOU&theme=algolia&column=5" alt="Trophies"/>
 </p>
 
 ---
