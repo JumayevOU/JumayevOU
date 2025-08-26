@@ -1,23 +1,23 @@
-# Hi, I'm Jumayev Og'abek ✨ 👨‍💻
+# Salom — men Jumayev Og'abek ✨ 👨‍💻
 [![github](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=plastic)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nata+Sans&pause=1000&center=true&width=435&lines=A+Python+Developer+%F0%9F%90%8D;Always+learning+something+new+%F0%9F%93%9A;Focused+on+long-term+growth+%F0%9F%8C%B1;Working+on+secret+LLM+startup+%F0%9F%A7%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nata+Sans&pause=1000&center=true&width=435&lines=Python+dasturchi+%F0%9F%90%8D;Doimo+yangi+narsalarni+o'rganaman+%F0%9F%93%9A;Uzoq+muddatli+o'sishga+e'tibor+%F0%9F%8C%B1;Maxfiy+LLM+startapida+ishlayapman+%F0%9F%A7%AA)](https://git.io/typing-svg)
 
 ---
 
 ### 👋 Menga qisqacha
-- 👀 Backend-yoʻnalishdagi dasturchiman — Python va Linux asoslari bilan chuqur ishlayman.
-- ⚙️ FFmpeg, Elasticsearch va Tilda kabi vositalar bilan avtomatlashtirish yoʻllarini yaxshi ko‘raman.
-- 🌱 Hozirda LLMlar, AI agentlar va tarqatilgan tizimlarga oʻrganmoqdaman.
-- 🔐 Pentesting va xavfsiz ilovalar yozishga qiziqaman.
-- 💳 Stripe va real-time maʼlumot oqimlari bilan ishlash tajribam bor.
-- 🐧 Kundalik Linux foydalanuvchisiman — ko‘p narsalarni skript orqali avtomatlashtiraman.
+- 👀 Men backendga yoʻnaltirilgan dasturchiman — asosan Python va Linux bilan ishlayman.
+- ⚙️ FFmpeg, Elasticsearch va Tilda kabi vositalar bilan avtomatlashtirishni yaxshi koʻraman.
+- 🌱 Hozirda LLMlar, AI agentlari va tarqatilgan tizimlarni chuqur oʻrganmoqdaman.
+- 🔐 Pentesting va xavfsiz ilovalar yozish sohasiga qiziqaman.
+- 💳 Stripe va real-vaqt maʼlumot oqimlari bilan integratsiya qilish tajribam bor.
+- 🐧 Kundalik Linux foydalanuvchisiman — ko‘p narsalarni skriptlar orqali avtomatlashtiraman.
 - 😄 Pronouns: His/him
-- ⚡ Fun fact: Katta g‘oyalar ko‘pincha oddiy skriptlardan boshlanadi!
+- ⚡ Qiziqarli fakt: Katta gʻoyalar ko‘pincha oddiy skriptlardan boshlanadi!
 
 ---
 
-### Technologies & Tools
+### Texnologiyalar va vositalar
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -43,10 +43,10 @@
 
 ---
 
-## GitHub stats
+## GitHub statistikasi
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical" alt="Ko'p ishlatilgan tillar"/>
 </p>
 
 ## Github Trophies
@@ -56,25 +56,9 @@
 
 ---
 
-### Popular repositories
+### Mashhur repolar (eng yaxshi ishlari)
 > [!IMPORTANT]
-> Bu bo‘limni o‘zingning eng yaxshi repo havolalari bilan to‘ldir: pin qilingan repolardan yoki quyidagi shaklda qo‘shishing mumkin.
+> Bu bo'limni o'zingning eng yaxshi repolaring bilan to'ldir: pin qilingan repolardan yoki quyidagi shaklda qo'shish mumkin.
 
 ```md
-- [logistics-load-matching-api](https://github.com/YOUR_GITHUB_USERNAME/logistics-load-matching-api) - short description...
-## Hi there 👋
-
-<!--
-**JumayevOU/JumayevOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [logistics-load-matching-api](https://github.com/YOUR_GITHUB_USERNAME/logistics-load-matching-api) - qisqacha tavsif...
