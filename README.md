@@ -66,9 +66,16 @@
 
 ---
 
-### 📬 Contact
-<p>
-📩 Email: <a href="mailto:jumayevou@gmail.com">jumayevou@gmail.com</a>  
-💬 Telegram: <a href="https://t.me/jumayeevou">@jumayeevou</a>  
-🔗 GitHub: <a href="https://github.com/jumayevou">JumayevOU</a>  
+### 📬 Contact  
+<p align="center">
+  <a href="mailto:jumayevou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/jumayeevou">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/jumayevou">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
