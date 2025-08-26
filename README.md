@@ -6,7 +6,7 @@
 ---
 
 ### 👋 About Me
-- 👀 I'm a backend-focused developer — passionate about Python and Linux.  
+- 👀 I'm a backend-focused developer — passionate about **Python** and **Linux**.  
 - ⚙️ I enjoy building scalable systems with tools like **FFmpeg, Elasticsearch, and Tilda**.  
 - 🌱 Currently exploring **LLMs, AI agents, and distributed systems**.  
 - 🔐 Interested in **pentesting** and secure application development.  
@@ -53,15 +53,22 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JumayevOU&theme=algolia&column=5" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jumayevou&theme=algolia&column=5" alt="Trophies"/>
 </p>
 
 ---
 
 ### 📌 Featured Repositories
-> [!IMPORTANT]  
-> Highlight your best projects here — either pinned repositories or listed like below:
+> Highlight your best projects here (either pinned repos or listed like below):  
 
-```md
-- [logistics-load-matching-api](https://github.com/jumayevou/logistics-load-matching-api) — A short description...
-- [another-project](https://github.com/jumayevou/another-project) — A short description...
+- [logistics-load-matching-api](https://github.com/jumayevou/logistics-load-matching-api) — A logistics API project...  
+- [another-project](https://github.com/jumayevou/another-project) — Another cool project...  
+
+---
+
+### 📬 Contact
+<p>
+📩 Email: <a href="mailto:jumayevou@gmail.com">jumayevou@gmail.com</a>  
+💬 Telegram: <a href="https://t.me/jumayeevou">@jumayeevou</a>  
+🔗 GitHub: <a href="https://github.com/jumayevou">JumayevOU</a>  
+</p>
